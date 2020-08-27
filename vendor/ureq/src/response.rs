@@ -1,3 +1,5 @@
+// modified by ear7h
+
 use std::io::{Cursor, Error as IoError, ErrorKind, Read, Result as IoResult};
 use std::str::FromStr;
 use std::time::Instant;
